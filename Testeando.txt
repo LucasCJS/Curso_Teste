@@ -1,1 +1,1 @@
-aqui jaz um ignorante em git
+aqui jaz um ignorante em git, entendo agora alguns conceitos basicos de git, passo 1 para a melhora, tomara
